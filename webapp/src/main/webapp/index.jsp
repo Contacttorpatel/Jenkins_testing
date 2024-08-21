@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank you, Happy Learning (Jenkins, Maven , Tomcat , Poll SCM and pushing docker images to docker Hub) </h1>
+   <h1> Thank you, Happy Learning (Jenkins, Maven , Tomcat , Poll SCM and pushing docker images to docker Hub...) </h1>
 
   
 </form>
